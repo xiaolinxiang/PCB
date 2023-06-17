@@ -8,6 +8,10 @@ public class pcb {
         float Smax ;
         float Smin ;
 
+
+
+        fd fg hfgh fgh
+
         float Wmax ;
         float Wmin ;
 
